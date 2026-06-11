@@ -1,0 +1,2 @@
+This is stash demo for task 1.
+This is done now with git Stash command and need to apply back to git stash apply.
